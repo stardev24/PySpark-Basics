@@ -1,0 +1,10 @@
+Name,Age,Company,SampleRank,Department
+Sai,30,ABC Inc,1,Big Data
+Kumar,29,DEF INC,2,Python
+Chetan,33,Cool INC,,Python
+James,26,,4,Big Data
+Bond,,PQR,5,Fullstack
+,22,,,Big Data
+Cruise,44,,7,Cloud
+John,,Test INC,8,Cloud
+Doe,20,,9,Fullstack
